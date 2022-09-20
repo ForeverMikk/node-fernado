@@ -1,5 +1,5 @@
-let nombre = 'Michael'
+let nombre = 'Michael Molina'
 console.log(nombre)
 
-let hola = 'Hola mundo'
+let hola = 'Hola Mundo'
 console.log(hola)
